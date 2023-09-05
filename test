@@ -1,0 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Exquisitest/new-isle-tracking-script/main/scripty'))()
+wait(5)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Exquisitest/moab-loader/main/moab%20loader'))()
+print("moab loadstring loaded 🤤🤤🤤🤤")
